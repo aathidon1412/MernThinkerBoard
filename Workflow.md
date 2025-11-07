@@ -74,7 +74,7 @@ Checking and verify using postman api
 
 Entering into middleware 
     inside the config create upstash and setting ratelimit
-    and create a folder middleware and create a file for check and send the request handling messgage
+    and create a folder middleware and create a file for check and send the request handling messgage with upstash.js in config
 
     function call of ratelimiter in server.js
 
